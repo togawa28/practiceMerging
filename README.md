@@ -1,1 +1,2 @@
 # practiceMerging
+user B change

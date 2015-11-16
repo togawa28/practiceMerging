@@ -1,5 +1,4 @@
 # practiceMerging
-<<<<<<< HEAD
 
 userA made some changes blahhhh.
 =======
